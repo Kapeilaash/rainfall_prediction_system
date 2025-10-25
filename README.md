@@ -252,8 +252,8 @@ We welcome contributions from the community! Here's how you can help:
 
 **Kapeilaash**
 - 🐙 GitHub: [@Kapeilaash](https://github.com/Kapeilaash)
-- 📧 Email: [Your Email]
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 📧 Email: [koneswarankapeilaash@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/kapeilaash-k/]
 
 ## 🙏 Acknowledgments
 
